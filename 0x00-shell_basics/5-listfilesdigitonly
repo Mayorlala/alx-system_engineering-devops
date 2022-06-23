@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -lna >> 5-listfilesdigitonly
-echo ls -lna
+ls -lna
